@@ -1,0 +1,6 @@
+{
+  "name": "CloudSweep - Autonomous Cost-Optimization Agent",
+  "description": "Scans cloud infrastructure for idle compute instances, orphaned storage volumes, and forgotten load balancers with real billing metrics, strict human approval gating, and prioritized teardown plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
