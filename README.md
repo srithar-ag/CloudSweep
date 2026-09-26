@@ -3,7 +3,8 @@
 An AI agent that finds cloud resources nobody remembers turning on — idle instances, orphaned volumes, and forgotten load balancers — prices out exactly what they're costing per month, and drafts a teardown plan for a human to approve. Nothing is ever deleted without explicit sign-off.
  
 Built for the **Agents That Act** hackathon theme: *Cloud Cost Janitor*.
- 
+
+ See Doc PDF Here: https://drive.google.com/file/d/1wX0csk-uvUIzHh83UtbgzqmTyTIvfNY2/view?usp=sharing
 ---
  
 ## What it does
@@ -18,7 +19,7 @@ Built for the **Agents That Act** hackathon theme: *Cloud Cost Janitor*.
 ---
  
 ## Two versions in this project
- 
+
 | | Purpose | Status |
 |---|---|---|
 | **Demo build** (`cloudsweep.html`) | Self-contained, zero-dependency interactive demo using mock data. No live API calls, no risk of failure during a presentation. | ✅ Built & published |
