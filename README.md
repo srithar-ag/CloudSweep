@@ -96,8 +96,3 @@ If the agent handles all four correctly, the detection logic and output format a
 - `test-prompt.md` — seeded test data with known correct answers
 - `README.md` — this file
 ---
- 
-## Notes for judges
- 
-- Nothing in this project executes an unapproved deletion — every destructive action is gated
-- The demo build is fully offline-safe; the real-agent build only reaches out to AWS billing/inventory APIs, never anything destructive without a human in the loop
